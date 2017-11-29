@@ -1,5 +1,4 @@
 /*
- * Rachel Kelley
  * This class contains the helper methods used in the roman calculator.
  * The roman numeral calculator allows you to add, subtract, divide,
  * mod, and multiply roman numerals. The integer representation of each
